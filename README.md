@@ -48,14 +48,13 @@ I'm a Backend Engineer with over 6 years of experience, specializing in building
 
 ---
 
-### ✨ Key Achievements
+### ✨ Core Competencies
 
--   **Performance Optimization:** Reduced API response latency from over 100ms to under **20ms** through code refactoring and architecture improvements.
--   **Cost Reduction:** Optimized AWS service usage to cut cloud infrastructure costs by **50%** while maintaining high performance.
--   **AI & Chatbots:** Improved chatbot response correctness from **50% to 95%** by customizing LangChain libraries and integrating with OpenAI.
--   **System Modernization:** Led the migration of a monolithic .NET application to a Go-based microservices architecture with zero downtime.
--   **Tooling & Automation:** Developed a common Go package with **98% test coverage**, significantly reducing development time and standardizing code quality across the team.
--   **Observability:** Built a custom monitoring and logging stack using Prometheus, Grafana, and Jaeger, reducing log tracing time from minutes to seconds.
--   **Team Leadership:** Successfully managed a team of four engineers, overseeing the entire development cycle from requirements gathering to production deployment and maintenance.
+* **System Architecture & Design:** I can design and build robust, scalable backend systems. I have experience migrating large monolithic applications to modern microservices architectures.
+* **Performance Optimization:** I am skilled at finding and fixing performance problems in applications. I improve speed by refactoring code and optimizing system infrastructure.
+* **Cloud & DevOps:** I am proficient in setting up and managing cloud environments, especially with AWS. I can build complete monitoring and logging solutions using tools like Docker, Prometheus, and Grafana to ensure systems are reliable.
+* **AI Integration:** I have experience building AI-powered features. This includes integrating services like OpenAI and customizing AI libraries to improve the quality of chat and automation tools.
+* **Team Leadership & Mentorship:** I can lead an engineering team through the entire project lifecycle. This includes planning, assigning tasks, reviewing code, and providing mentorship to help team members grow.
+* **Code Quality & Tooling:** I focus on writing clean, high-quality code. I enjoy creating reusable tools and packages that help teams work faster and maintain consistent standards.
 
 ---
